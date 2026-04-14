@@ -32,7 +32,7 @@ Trabalho com metodologias criativas, estimulando pensamento lógico, autonomia e
 ---
 
 ## 📊 GitHub Stats
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+https://github.com/anadanniele/portfolio.git
 
 ---
 
