@@ -1,4 +1,4 @@
-# 👩‍💻 Ana Daniéle
+# 👩‍💻 Ána Daniéle
 
 🎓 Professora de Tecnologia da Informação  
 💡 Lógica de Programação | Design Gráfico | Desenvolvimento de Sistemas  
