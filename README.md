@@ -32,7 +32,7 @@ Trabalho com metodologias criativas, estimulando pensamento lógico, autonomia e
 ---
 
 ## 📊 GitHub Stats
-https://github.com/anadanniele/portfolio.git
+https://anadanniele.github.io/portfolio/
 
 ---
 
